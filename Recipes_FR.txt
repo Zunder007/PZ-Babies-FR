@@ -1,0 +1,21 @@
+Recipes_FR = {
+
+	Recipe_Create_Biberon = "Créer un Biberon",
+	Recipe_Create_Biberon_with_Milk = "Créer un Biberon avec du Lait",
+	Recipe_Clean_Biberon = "Laver le Biberon",
+	Recipe_Baby_carrier = "Fabriquer une écharpe de portage",
+	Recipe_Put_Baby_in_carrier = "Mettre le bébé dans l'écharpe",
+	Recipe_Take_Baby_from_carrier = "Retirer le bébé de l'écharpe",
+	Recipe_Convert_carrier_in_backpack = "Transformer l'écharpe en porte-bébé",
+	Recipe_Put_Baby_in_backpack = "Mettre le bébé dans le porte-bébé",
+	Recipe_Take_Baby_from_backpack = "Retirer le bébé du porte-bébé",
+	Recipe_Sitted = "Assoir le bébé",
+	Recipe_Crawling = "Mettre le bébé à quatre pattes",
+	Recipe_Lying = "Allonger le bébé",
+	Recipe_Convert_backpack_in_carrier = "Transformer un sac à dos en porte-bébé",
+	Recipe_Create_Diaper = "Confectionner une couche",
+	Recipe_Feed_Baby = "Nourrir le bébé",
+	Recipe_Make_Crib = "Fabriquer un berceau",
+	Recipe_Make_Toy_Crate = "Fabriquer une caisse à jouets",
+
+}
