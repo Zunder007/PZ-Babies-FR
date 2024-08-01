@@ -1,0 +1,49 @@
+ItemName_FR = {
+
+    ItemName_Babies.Baby_01 = "Bébé",
+    ItemName_Babies.Baby_02 = "Bébé",
+    ItemName_Babies.Baby_03 = "Bébé",
+
+    ItemName_Babies.Baby_07 = "Bébé",
+    ItemName_Babies.Baby_08 = "Bébé",
+    ItemName_Babies.Baby_09 = "Bébé",
+    ItemName_Babies.Baby_10 = "Bébé",
+    ItemName_Babies.Baby_11 = "Bébé",
+    ItemName_Babies.Baby_12 = "Bébé",
+    ItemName_Babies.Baby_13 = "Aurora",
+    ItemName_Babies.Baby_14 = "Aurora",
+
+	ItemName_Babies.Baby_01_b = "Bébé",
+	ItemName_Babies.Baby_02_b = "Bébé",
+	ItemName_Babies.Baby_03_b = "Bébé",
+
+	ItemName_Babies.Baby_07_b = "Bébé",
+	ItemName_Babies.Baby_08_b = "Bébé",
+	ItemName_Babies.Baby_09_b = "Bébé",
+	ItemName_Babies.Baby_10_b = "Bébé",
+	ItemName_Babies.Baby_11_b = "Bébé",
+	ItemName_Babies.Baby_12_b = "Bébé",
+
+	ItemName_Babies.Biberon = "Biberon",
+    ItemName_Babies.Baby_formula = "Formule Lactée",
+    ItemName_Babies.Diapers = "Couche",
+    ItemName_Babies.bb_Monkey = "Niko le Singe",
+
+    ItemName_Babies.Biberon_rotten = "Biberon avec du Lait (pourri)", 
+    ItemName_Babies.Baby_carrier_blue_floor = "Echarpe de portage",
+    ItemName_Babies.Baby_carrier_floor_bkp = "Porte-bébé",
+    ItemName_Babies.Biberon_milk = "Biberon avec du Lait",
+
+	ItemName_Babies.Baby_carrier_blue_baby_01 = "Porte-bébé avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_01_bkp = "Sac à dos avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_02 = "Porte-bébé avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_02_bkp = "Sac à dos avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_03 = "Porte-bébé avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_03_bkp = "Sac à dos avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_04 = "Porte-bébé avec bébé",
+	ItemName_Babies.Baby_carrier_blue_baby_04_bkp = "Sac à dos avec bébé",
+	ItemName_Babies.Diaper = "Couche",
+	ItemName_Babies.Empty_Biberon = "Biberon",
+	ItemName_Babies.babiesTiles_0 = "Berceau",
+	ItemName_Babies.babiesTiles_8 = "Caisse à jouets",
+}
