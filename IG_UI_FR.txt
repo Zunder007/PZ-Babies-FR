@@ -1,0 +1,5 @@
+IG_UI_FR = {
+    IGUI_ItemCat_Babies = "Bébés",
+    IGUI_Babies.Baby_Carrier = "Echarpe avec %s",
+    IGUI_Babies.Baby_Backpack = "Porte-bébé avec %s",
+}
